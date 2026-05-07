@@ -1,7 +1,7 @@
-joblib
-streamlit
-scikit-learn
 pandas
 matplotlib
 seaborn
-jupyter notebook
+scikit-learn
+joblib
+streamlit>=1.32.0
+altair==6.0.0
